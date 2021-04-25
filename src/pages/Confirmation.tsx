@@ -44,6 +44,7 @@ export function Confirmation(){
             <View style={styles.content}>
                 <Text style={styles.emoji}>
                     {emojis[icon]}
+                    
                 </Text>
 
                 <Text style={styles.title}>
